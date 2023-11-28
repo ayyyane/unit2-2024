@@ -3,7 +3,8 @@
 # Unit 2: A Distributed Weather Station for ISAK
 
 ## Criteria A: Planning
-
+UWC ISAK JAPAN is a boarding high school which is located on the hill in Nagano prefecuture. John, who is a student of the school goes to the supermarket to get vegetables on foot for 1 hour every weekend.
+He decided to grow vegetables in his room. He beleives that he needs to control the temperature and humidity to grow. 
 ## Problem definition
 
 ``` Fill out here```
